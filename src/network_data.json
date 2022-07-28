@@ -1,0 +1,131 @@
+[{
+	"id": 1,
+	"region": "New_Delhi",
+	"data": "290k GB",
+    "domain":".in",
+    "coordinates":[28.644800,77.216721]
+}, {
+	"id": 2,
+	"region": "NEW_YORK",
+	"data": "490k GB",
+    "domain":".us",
+    "coordinates":[40.712776,-74.005974]
+}, {
+	"id": 3,
+	"region": "Mumbai",
+	"data": "790k GB",
+    "domain":".in",
+    "coordinates":[19.075983,72.877655]
+}, {
+	"id": 4,
+	"region": "Singapore",
+	"data": "590K GB",
+    "domain":".sgp",
+    "coordinates":[1.352083,103.819839]
+}, {
+	"id": 5,
+	"region": "Valdivostok",
+	"data": "495k GB",
+    "domain":".ru",
+    "coordinates":[43.115761,131.885483]
+}, {
+	"id": 6,
+	"region": "Berlin",
+	"data": "690k GB",
+    "domain":".eu",
+    "coordinates":[52.520008,13.404954]
+},
+{
+	"id": 7,
+	"region": "Paris",
+	"data": "390k GB",
+    "domain":".eu",
+    "coordinates":[48.858093,2.294694]
+},
+{
+	"id": 8,
+	"region": "London",
+	"data": "950k GB",
+    "domain":".uk",
+    "coordinates":[51.509865,-0.118092]
+},
+{
+	"id": 9,
+	"region": "Oslo",
+	"data": "120k GB",
+    "domain":".eu",
+    "coordinates":[59.911491,10.757933]
+},
+{
+	"id": 11,
+	"region": "Jaipur",
+	"data": "55k GB",
+    "domain":".in",
+    "coordinates":[26.922070,75.778885]
+},
+{
+	"id": 12,
+	"region": "Mohali",
+	"data": "30k GB",
+    "domain":".in",
+    "coordinates":[30.67995,76.72211]
+},
+{
+	"id": 13,
+	"region": "Leh",
+	"data": "40k GB",
+    "domain":".in",
+    "coordinates":[34.152588,77.577049]
+},
+{
+	"id": 14,
+	"region": "Shanghai",
+	"data": "550k GB",
+    "domain":".cn",
+    "coordinates":[31.224361,121.469170]
+},
+{
+	"id": 15,
+	"region": "Tokyo",
+	"data": "850k GB",
+    "domain":".jp",
+    "coordinates":[35.652832,	139.839478]
+},
+{
+	"id": 16,
+	"region": "Hokiado",
+	"data": "362k GB",
+    "domain":".jp",
+    "coordinates":[43.066666,141.350006]
+},
+{
+	"id": 17,
+	"region": "Kyoto",
+	"data": "786k GB",
+    "domain":".jp",
+    "coordinates":[35.011665,135.768326]
+},
+{
+	"id": 18,
+	"region": "Seoul",
+	"data": "876k GB",
+    "domain":".sk",
+    "coordinates":[37.532600,127.024612]
+},
+{
+	"id": 19,
+	"region": "Busan",
+	"data": "458k GB",
+    "domain":".sk",
+    "coordinates":[35.166668,129.066666]
+},
+{
+	"id": 20,
+	"region": "Phuket",
+	"data": "85k GB",
+    "domain":".th",
+    "coordinates":[8.032003,98.333466]
+}
+
+
+]
